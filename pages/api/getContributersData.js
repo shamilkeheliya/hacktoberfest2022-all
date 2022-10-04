@@ -10,7 +10,7 @@ export default function handler(req, res) {
       linkedin: "https://linkedin.com/in/prineth-fernando",
     },
     {
-      id: 1,
+      id: 2,
       name: "Muhammad Uzair",
       img: "https://avatars.githubusercontent.com/u/89875366?v=4",
       github: "https://github.com/heyitsuzair",
